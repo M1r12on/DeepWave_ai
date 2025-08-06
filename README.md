@@ -12,15 +12,15 @@ Ziel: Eine robuste Pipeline zur Feature-Extraktion, Trainingsdatenerstellung und
 
 ## 📚 Inhaltsverzeichnis
 
-- [📁 Projektstruktur](#-projektstruktur)
-- [🎧 Datensatz](#-datensatz)
-- [⚙️ Einrichtung (virtuelle Umgebung)](#️-einrichtung-virtuelle-umgebung)
-- [📦 Abhängigkeiten installieren](#-abhängigkeiten-installieren)
-- [🚀 Verarbeitungs-Pipeline im Detail](#-verarbeitungs-pipeline-im-detail)
-- [🧠 Architektur des Netzwerks](#-architektur-des-netzwerks)
-- [🛠️ Exportformate für Deployment](#️-exportformate-für-deployment)
-- [📊 Evaluation mit ONNX & Confusion Matrix](#-evaluation-mit-onnx--confusion-matrix)
-- [❓ FAQ / Fehlersuche](#-faq--fehlersuche)
+- [Projektstruktur](#-projektstruktur)
+- [Datensatz](#-datensatz)
+- [Einrichtung (virtuelle Umgebung)](#️-einrichtung-virtuelle-umgebung)
+- [Abhängigkeiten installieren](#-abhängigkeiten-installieren)
+- [Verarbeitungs-Pipeline im Detail](#-verarbeitungs-pipeline-im-detail)
+- [Architektur des Netzwerks](#-architektur-des-netzwerks)
+- [Exportformate für Deployment](#️-exportformate-für-deployment)
+- [Evaluation mit ONNX & Confusion Matrix](#-evaluation-mit-onnx--confusion-matrix)
+- [FAQ / Fehlersuche](#-faq--fehlersuche)
 
 ---
 
